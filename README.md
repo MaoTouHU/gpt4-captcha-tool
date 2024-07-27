@@ -14,8 +14,8 @@ This project is a CLI tool for testing various types of captchas including puzzl
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/aydinnyunus/gpt4-captcha-bypass
-   cd gpt4-captcha-bypass
+   git clone https://github.com/MaoTouHU/gpt4-captcha-tool
+   cd gpt4-captcha-tool
    ```
 
 2. Install the required Python packages:
